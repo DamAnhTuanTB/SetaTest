@@ -5,6 +5,6 @@ $ npm run test
 ```
 ## Kết quả chạy test
 ### Task 1
-![alt](https://pasteboard.co/JY13dNC.png)
+![alt](https://i.imgur.com/oecBJuR.png)
 ### Task 2
 ![alt](https://pasteboard.co/JY14c0Y.png)
