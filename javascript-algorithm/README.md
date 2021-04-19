@@ -7,4 +7,4 @@ $ npm run test
 ### Task 1
 ![alt](https://i.imgur.com/oecBJuR.png)
 ### Task 2
-![alt](https://pasteboard.co/JY14c0Y.png)
+![alt](https://i.imgur.com/cvRY5lx.png)
