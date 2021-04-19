@@ -3,7 +3,7 @@
 $ npm install
 $ npm run test
 ```
-## Kết quả chạy test
+## Kết quả chạy kiểm tra thư mục javascript-algorithm
 ### Task 1
 ![alt](https://i.imgur.com/oecBJuR.png)
 ### Task 2
